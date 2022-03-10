@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Ej [@Ejay02]
 - 👀 I’m interested in learning new things..
-- 🌱 I’m currently learning Vuejs3, NestJs, AWS Cloud service.
+- 🌱 I’m currently learning Solidity, AWS Cloud service and always learning Javascript.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me ...e.jae02@gmail.com
 
