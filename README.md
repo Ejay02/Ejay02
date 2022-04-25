@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Ej, pronounced: /iːdʒeɪ/ || /ɛd͡ʒei/,
 - 👀 I’m interested in learning new things..
-- 🌱 I’m currently learning Solidity, AWS Cloud service and always learning Javascript.
+- 🌱 I’m currently learning Web3, AWS Cloud service and always learning Javascript.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me ...e.jae02@gmail.com
 
