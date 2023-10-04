@@ -18,6 +18,7 @@ Years ago, I ventured into the realm of coding, beginning with the foundational 
 ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 </p>
 
+[![An image of @ejay02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ejay02)](https://holopin.io/@ejay02)
 
 ### Socials
 
