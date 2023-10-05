@@ -8,7 +8,7 @@ Years ago, I ventured into the realm of coding, beginning with the foundational 
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [e.jae02@gmail.com](mailto:e.jae02@gmail.com)
-* 🧠  I'm learning Python, AWS and DSA and always learning Javascript.
+* 🧠  I'm learning Python, AWS, and DSA and always learning Javascript.
 * 🤝  I'm open to collaborating on interesting projects.
 
 ### Badges
@@ -17,7 +17,7 @@ Years ago, I ventured into the realm of coding, beginning with the foundational 
 <div style="display: flex; justify-content: space-between;">
 <a href="http://www.github.com/Ejay02"><img src="https://github-readme-stats.vercel.app/api?username=Ejay02&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ejay02's GitHub stats" /></a>
 
-<a href="https://github.com/Ejay02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejay02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 </div>
 
 [![An image of @ejay02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ejay02)](https://holopin.io/@ejay02)
@@ -25,4 +25,6 @@ Years ago, I ventured into the realm of coding, beginning with the foundational 
 <!---
 Ejay02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+// TOP LANG
+<a href="https://github.com/Ejay02" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejay02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 --->
