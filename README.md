@@ -1,4 +1,4 @@
-Hi 👋 I'm Ej [E-jay].
+Hi, I'm Ej [E-jay]. <img src="https://user-images.githubusercontent.com/84375918/191945102-778647b4-d74c-4526-875b-6ff4120ba9a5.gif" height="40" style="max-width: 100%; display: inline-block;"  />
 ============================
 
 Web Developer
