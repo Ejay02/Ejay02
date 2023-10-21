@@ -17,8 +17,18 @@ Years ago, I ventured into the realm of coding, beginning with the foundational 
 - Programming Languages: 
   - ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
-- Frameworks: React, Node.js
-- Tools: Visual Studio Code, Git
+- Frameworks:
+  - ![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-brightgreen)
+  - ![Nest.js](https://img.shields.io/badge/Nest.js-Intermediate-brightgreen)
+- Runtime Environment:
+  - ![Node.js](https://img.shields.io/badge/Node.js-Advanced-brightgreen)
+- Tools:
+  - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Advanced-blue)
+  - ![Git](https://img.shields.io/badge/Git-Intermediate-blue)
+  - ![Socket.io](https://img.shields.io/badge/Socket.io-Intermediate-blue)
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-blue)
+  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Intermediate-blue)
+
 
 
 <b>My GitHub Stats</b>
