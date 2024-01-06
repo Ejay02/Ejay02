@@ -16,12 +16,10 @@ Years ago, I ventured into the realm of coding, beginning with the foundational 
 
 | Programming Languages | Frameworks           | Tools                  | Databases        | Real-time Communication | Styling             |
 |-----------------------|-----------------------|------------------------|------------------|-------------------------|--------------------|
-| ![Python](https://img.shields.io/badge/Python-Intermediate-yellow) | ![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-yellow) | ![Git](https://img.shields.io/badge/Git-Intermediate-yellow) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow) | ![Socket.io](https://img.shields.io/badge/Socket.io-Intermediate-yellow) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Intermediate-yellow) |
+| ![Python](https://img.shields.io/badge/Python-Intermediate-yellow) | ![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-yellow) | ![Git](https://img.shields.io/badge/Git-Intermediate-yellow) | ![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow) | ![Socket.io](https://img.shields.io/badge/Socket.io-Intermediate-yellow) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Intermediate-yellow) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-brightgreen) | ![Nest.js](https://img.shields.io/badge/Nest.js-Advanced-brightgreen) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Advanced-brightgreen) | | | ![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow) |
 | | | | | | ![Sass (SCSS)](https://img.shields.io/badge/Sass%20(SCSS)-Intermediate-yellow) |
 | | ![Prometheus](https://img.shields.io/badge/Prometheus-Beginner-blue) | ![AWS](https://img.shields.io/badge/AWS-Beginner-blue) | | | |
-
-
 
 
 
