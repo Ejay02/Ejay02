@@ -9,7 +9,7 @@ Years ago, I ventured into the realm of coding, beginning with the foundational 
 * 🌍  I'm based in Lagos, Nigeria.
 * 👩🏽‍🤝‍👨🏼  Pronouns: She/Her.
 * ✉️  You can contact me at [e.jae02@gmail.com](mailto:e.jae02@gmail.com)
-* 🧠  I'm currently learning Python, AWS, and DSA and always learning Javascript.
+* 🧠  I'm currently learning Python, GO, AWS, and DSA, and always learning Javascript.
 * 🤝  I'm open to collaborating on interesting projects.
 
 ## My Technology Stack
