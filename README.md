@@ -1,7 +1,7 @@
 Hi, I'm Ej [E-jay]. <img src="https://user-images.githubusercontent.com/84375918/191945102-778647b4-d74c-4526-875b-6ff4120ba9a5.gif" height="40" style="max-width: 100%; display: inline-block;"  />
 ============================
 
-Software Developer
+Software Engineer
 -------------
 
 Years ago, I ventured into the realm of coding, beginning with the foundational blocks of HTML. As time flowed, I discovered the rush of software development, the artistry of design, and the intricate logic of creating seamless user experiences. This technological odyssey has unveiled a world where each line of code weaves a story, and with every app developed, a piece of the future takes shape.
