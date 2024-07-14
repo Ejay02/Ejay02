@@ -18,7 +18,7 @@ Years ago, I ventured into the realm of coding, beginning with the foundational 
 |-----------------------|-----------------------|------------------------|------------------|-------------------------|--------------------|--------------------|
 | ![Python](https://img.shields.io/badge/Python-Intermediate-yellow) | ![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-yellow) | ![Git](https://img.shields.io/badge/Git-Intermediate-yellow) | ![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow) | ![Socket.io](https://img.shields.io/badge/Socket.io-Intermediate-yellow) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Intermediate-yellow) | ![Cypress](https://img.shields.io/badge/Cypress-Intermediate-yellow) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-brightgreen) | ![Nest.js](https://img.shields.io/badge/Nest.js-Advanced-brightgreen) | ![VS Code](https://img.shields.io/badge/VS%20Code-Advanced-brightgreen) | | | ![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow) | |
-| ![Go](https://img.shields.io/badge/Go-Intermediate-yellow) | | ![Prometheus](https://img.shields.io/badge/Prometheus-Beginner-blue) | ![AWS](https://img.shields.io/badge/AWS-Beginner-blue) | | | |
+| ![Go](https://img.shields.io/badge/Go-Beginner-blue) | | ![Prometheus](https://img.shields.io/badge/Prometheus-Beginner-blue) | ![AWS](https://img.shields.io/badge/AWS-Beginner-blue) | | | |
 
 
 
