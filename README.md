@@ -4,9 +4,9 @@ Hi, I'm Ej [E-jay]. <img src="https://user-images.githubusercontent.com/84375918
 Software Engineer
 -------------
 
-FullStack developer. Occasional open-source contributor. I am interested in remote work and productivity.
+FullStack developer | Occasional open-source contributor | Remote work advocate | Driven by curiosity.
 
-* 🌍  I'm based in Lagos, Nigeria.
+* 🌍  Wherever WiFi exists.
 * 👩🏽‍🤝‍👨🏼  Pronouns: She/Her.
 * ✉️  You can contact me at [e.jae02@gmail.com](mailto:e.jae02@gmail.com)
 * 🧠  I'm currently learning Python, GO, AWS, and DSA, and always learning Javascript.
